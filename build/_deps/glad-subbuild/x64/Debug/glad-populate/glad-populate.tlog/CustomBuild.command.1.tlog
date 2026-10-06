@@ -1,0 +1,150 @@
+^D:\DOCUMENTS\PROJECTS\GPU\COURSERA\CUDA ADVANCED LIBRARIES\PARTICLEBUNNY\BUILD\_DEPS\GLAD-SUBBUILD\CMAKEFILES\5ACDD6AF2B3A86B40B49570EA6AF1F3F\GLAD-POPULATE-MKDIR.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/glad-populate-prefix/tmp/glad-populate-mkdirs.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/Debug/glad-populate-mkdir"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DOCUMENTS\PROJECTS\GPU\COURSERA\CUDA ADVANCED LIBRARIES\PARTICLEBUNNY\BUILD\_DEPS\GLAD-SUBBUILD\CMAKEFILES\5ACDD6AF2B3A86B40B49570EA6AF1F3F\GLAD-POPULATE-DOWNLOAD.RULE
+setlocal
+cd "D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps"
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/glad-populate-prefix/tmp/glad-populate-gitclone.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/Debug/glad-populate-download"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DOCUMENTS\PROJECTS\GPU\COURSERA\CUDA ADVANCED LIBRARIES\PARTICLEBUNNY\BUILD\_DEPS\GLAD-SUBBUILD\CMAKEFILES\5ACDD6AF2B3A86B40B49570EA6AF1F3F\GLAD-POPULATE-UPDATE.RULE
+setlocal
+cd "D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glad-src"
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/glad-populate-prefix/tmp/glad-populate-gitupdate.cmake"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DOCUMENTS\PROJECTS\GPU\COURSERA\CUDA ADVANCED LIBRARIES\PARTICLEBUNNY\BUILD\_DEPS\GLAD-SUBBUILD\CMAKEFILES\5ACDD6AF2B3A86B40B49570EA6AF1F3F\GLAD-POPULATE-PATCH.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/Debug/glad-populate-patch"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DOCUMENTS\PROJECTS\GPU\COURSERA\CUDA ADVANCED LIBRARIES\PARTICLEBUNNY\BUILD\_DEPS\GLAD-SUBBUILD\CMAKEFILES\5ACDD6AF2B3A86B40B49570EA6AF1F3F\GLAD-POPULATE-CONFIGURE.RULE
+setlocal
+cd "D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glad-build"
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/Debug/glad-populate-configure"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DOCUMENTS\PROJECTS\GPU\COURSERA\CUDA ADVANCED LIBRARIES\PARTICLEBUNNY\BUILD\_DEPS\GLAD-SUBBUILD\CMAKEFILES\5ACDD6AF2B3A86B40B49570EA6AF1F3F\GLAD-POPULATE-BUILD.RULE
+setlocal
+cd "D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glad-build"
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/Debug/glad-populate-build"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DOCUMENTS\PROJECTS\GPU\COURSERA\CUDA ADVANCED LIBRARIES\PARTICLEBUNNY\BUILD\_DEPS\GLAD-SUBBUILD\CMAKEFILES\5ACDD6AF2B3A86B40B49570EA6AF1F3F\GLAD-POPULATE-INSTALL.RULE
+setlocal
+cd "D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glad-build"
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/Debug/glad-populate-install"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DOCUMENTS\PROJECTS\GPU\COURSERA\CUDA ADVANCED LIBRARIES\PARTICLEBUNNY\BUILD\_DEPS\GLAD-SUBBUILD\CMAKEFILES\5ACDD6AF2B3A86B40B49570EA6AF1F3F\GLAD-POPULATE-TEST.RULE
+setlocal
+cd "D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glad-build"
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/Debug/glad-populate-test"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DOCUMENTS\PROJECTS\GPU\COURSERA\CUDA ADVANCED LIBRARIES\PARTICLEBUNNY\BUILD\_DEPS\GLAD-SUBBUILD\CMAKEFILES\53CCB7FC7A1EBFEC4C208A81D615D785\GLAD-POPULATE-COMPLETE.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -E make_directory "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/CMakeFiles/Debug"
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/CMakeFiles/Debug/glad-populate-complete"
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E touch "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/glad-populate-prefix/src/glad-populate-stamp/Debug/glad-populate-done"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DOCUMENTS\PROJECTS\GPU\COURSERA\CUDA ADVANCED LIBRARIES\PARTICLEBUNNY\BUILD\_DEPS\GLAD-SUBBUILD\CMAKEFILES\44B32A380EAAF63CFED22FFB7FE93605\GLAD-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DOCUMENTS\PROJECTS\GPU\COURSERA\CUDA ADVANCED LIBRARIES\PARTICLEBUNNY\BUILD\_DEPS\GLAD-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" "-SD:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild" "-BD:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild" --check-stamp-file "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^D:\DOCUMENTS\PROJECTS\GPU\COURSERA\CUDA ADVANCED LIBRARIES\PARTICLEBUNNY\BUILD\_DEPS\GLFW-SUBBUILD\CMAKEFILES\60930B637FC3DD9F1B26D161EF5127F7\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" "-SD:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glfw-subbuild" "-BD:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glfw-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glfw-subbuild/glfw-populate.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^D:\DOCUMENTS\PROJECTS\GPU\COURSERA\CUDA ADVANCED LIBRARIES\PARTICLEBUNNY\BUILD\CMAKEFILES\406B0C4F99EFAED49D9D690A6D4D0C5E\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" "-SD:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny" "-BD:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/ParticleBunny.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

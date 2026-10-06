@@ -1,0 +1,10 @@
+^D:\DOCUMENTS\PROJECTS\GPU\COURSERA\CUDA ADVANCED LIBRARIES\PARTICLEBUNNY\BUILD\_DEPS\GLAD-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" "-SD:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild" "-BD:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild" --check-stamp-file "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

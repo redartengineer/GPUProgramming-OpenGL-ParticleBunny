@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glad-subbuild\CMakeFiles\44b32a380eaaf63cfed22ffb7fe93605\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0E8AD55F-6CE8-317D-BA7D-1B27C531F787}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

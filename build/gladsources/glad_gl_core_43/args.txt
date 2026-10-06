@@ -1,0 +1,1 @@
+--out-path "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/gladsources/glad_gl_core_43" --api gl:core=4.3 --reproducible c 

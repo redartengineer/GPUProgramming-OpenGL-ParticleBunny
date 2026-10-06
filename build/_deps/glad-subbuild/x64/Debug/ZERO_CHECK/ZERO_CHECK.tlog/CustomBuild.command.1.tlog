@@ -1,0 +1,10 @@
+^D:\DOCUMENTS\PROJECTS\GPU\COURSERA\CUDA ADVANCED LIBRARIES\PARTICLEBUNNY\BUILD\_DEPS\GLAD-SUBBUILD\CMAKEFILES\44B32A380EAAF63CFED22FFB7FE93605\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" "-SD:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild" "-BD:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/glad-populate.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

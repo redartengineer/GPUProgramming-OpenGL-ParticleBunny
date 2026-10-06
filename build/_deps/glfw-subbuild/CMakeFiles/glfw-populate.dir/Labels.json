@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glfw-subbuild/CMakeFiles/60930b637fc3dd9f1b26d161ef5127f7/glfw-populate.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glfw-subbuild/CMakeFiles/10f97566bc66cd8db58b750de7c33a46/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glfw-subbuild/CMakeFiles/041635488b41f4d81d872563b20100f2/glfw-populate-build.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glfw-subbuild/CMakeFiles/041635488b41f4d81d872563b20100f2/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glfw-subbuild/CMakeFiles/041635488b41f4d81d872563b20100f2/glfw-populate-download.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glfw-subbuild/CMakeFiles/041635488b41f4d81d872563b20100f2/glfw-populate-install.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glfw-subbuild/CMakeFiles/041635488b41f4d81d872563b20100f2/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glfw-subbuild/CMakeFiles/041635488b41f4d81d872563b20100f2/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glfw-subbuild/CMakeFiles/041635488b41f4d81d872563b20100f2/glfw-populate-test.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glfw-subbuild/CMakeFiles/041635488b41f4d81d872563b20100f2/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}

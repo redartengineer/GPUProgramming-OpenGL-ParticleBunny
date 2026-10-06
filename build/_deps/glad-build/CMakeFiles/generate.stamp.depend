@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/CMakeFiles/4.4.2/CMakeCCompiler.cmake
+D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-src/cmake/CMakeLists.txt
+D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-src/cmake/GladConfig.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/CMakeCInformation.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/CMakeLanguageInformation.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/Compiler/MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/Compiler/MSVC.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/Internal/CMakeCLinkerInformation.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/Internal/CMakeCommonLinkerInformation.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/Linker/MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/Linker/MSVC.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/Platform/Linker/Windows-MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/Platform/Linker/Windows-MSVC.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/Platform/Windows-MSVC-C.cmake
+D:/Program Files/CMake/share/cmake-4.4/Modules/Platform/Windows-MSVC.cmake

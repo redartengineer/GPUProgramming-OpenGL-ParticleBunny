@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/cmake_install.cmake",
+		"D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glfw-build/cmake_install.cmake",
+		"D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glfw-build/src/cmake_install.cmake",
+		"D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glm-build/cmake_install.cmake",
+		"D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glm-build/glm/cmake_install.cmake",
+		"D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

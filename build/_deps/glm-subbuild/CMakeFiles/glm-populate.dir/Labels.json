@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glm-subbuild/CMakeFiles/glm-populate"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glm-subbuild/CMakeFiles/3f09bda9e9192b512409e766e1f4f5bd/glm-populate.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glm-subbuild/CMakeFiles/8773b9d5d5e4a800ba6eb321bc702e8c/glm-populate-complete.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glm-subbuild/CMakeFiles/ae2eb1b257d3996d40fef6939a9c7f98/glm-populate-build.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glm-subbuild/CMakeFiles/ae2eb1b257d3996d40fef6939a9c7f98/glm-populate-configure.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glm-subbuild/CMakeFiles/ae2eb1b257d3996d40fef6939a9c7f98/glm-populate-download.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glm-subbuild/CMakeFiles/ae2eb1b257d3996d40fef6939a9c7f98/glm-populate-install.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glm-subbuild/CMakeFiles/ae2eb1b257d3996d40fef6939a9c7f98/glm-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glm-subbuild/CMakeFiles/ae2eb1b257d3996d40fef6939a9c7f98/glm-populate-patch.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glm-subbuild/CMakeFiles/ae2eb1b257d3996d40fef6939a9c7f98/glm-populate-test.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glm-subbuild/CMakeFiles/ae2eb1b257d3996d40fef6939a9c7f98/glm-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glm-populate"
+		],
+		"name" : "glm-populate"
+	}
+}

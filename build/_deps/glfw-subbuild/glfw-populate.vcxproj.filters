@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glfw-subbuild\CMakeFiles\041635488b41f4d81d872563b20100f2\glfw-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glfw-subbuild\CMakeFiles\041635488b41f4d81d872563b20100f2\glfw-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glfw-subbuild\CMakeFiles\041635488b41f4d81d872563b20100f2\glfw-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glfw-subbuild\CMakeFiles\041635488b41f4d81d872563b20100f2\glfw-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glfw-subbuild\CMakeFiles\041635488b41f4d81d872563b20100f2\glfw-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glfw-subbuild\CMakeFiles\041635488b41f4d81d872563b20100f2\glfw-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glfw-subbuild\CMakeFiles\041635488b41f4d81d872563b20100f2\glfw-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glfw-subbuild\CMakeFiles\041635488b41f4d81d872563b20100f2\glfw-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glfw-subbuild\CMakeFiles\10f97566bc66cd8db58b750de7c33a46\glfw-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glfw-subbuild\CMakeFiles\60930b637fc3dd9f1b26d161ef5127f7\glfw-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glfw-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glfw-subbuild\CMakeFiles\glfw-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1BA46D94-1390-3196-8205-02639D62D9FA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

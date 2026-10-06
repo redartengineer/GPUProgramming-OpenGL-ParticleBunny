@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\CMakeFiles\bc1da5dfeef4e3d099a1eb6f4589cc56\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glfw-src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\_deps\glfw-build\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{70EA074C-FB20-3A7A-B6AF-4A885E8CF013}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

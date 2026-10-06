@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/CMakeFiles/glad-populate"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/CMakeFiles/44b32a380eaaf63cfed22ffb7fe93605/glad-populate.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/CMakeFiles/53ccb7fc7a1ebfec4c208a81d615d785/glad-populate-complete.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/CMakeFiles/5acdd6af2b3a86b40b49570ea6af1f3f/glad-populate-build.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/CMakeFiles/5acdd6af2b3a86b40b49570ea6af1f3f/glad-populate-configure.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/CMakeFiles/5acdd6af2b3a86b40b49570ea6af1f3f/glad-populate-download.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/CMakeFiles/5acdd6af2b3a86b40b49570ea6af1f3f/glad-populate-install.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/CMakeFiles/5acdd6af2b3a86b40b49570ea6af1f3f/glad-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/CMakeFiles/5acdd6af2b3a86b40b49570ea6af1f3f/glad-populate-patch.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/CMakeFiles/5acdd6af2b3a86b40b49570ea6af1f3f/glad-populate-test.rule"
+		},
+		{
+			"file" : "D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glad-subbuild/CMakeFiles/5acdd6af2b3a86b40b49570ea6af1f3f/glad-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glad-populate"
+		],
+		"name" : "glad-populate"
+	}
+}

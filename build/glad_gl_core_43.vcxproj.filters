@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\gladsources\glad_gl_core_43\src\gl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\gladsources\glad_gl_core_43\include\KHR\khrplatform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\gladsources\glad_gl_core_43\include\glad\gl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\build\CMakeFiles\3668a1c8f994156dfa226a0f984b9cd3\khrplatform.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Documents\Projects\GPU\Coursera\CUDA Advanced Libraries\ParticleBunny\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{70EA074C-FB20-3A7A-B6AF-4A885E8CF013}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{84D6AC59-93E0-31EE-84F3-ED3D61E4674B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0C2A6AD8-4292-39EB-8F5B-CFA1E3B2EB1E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

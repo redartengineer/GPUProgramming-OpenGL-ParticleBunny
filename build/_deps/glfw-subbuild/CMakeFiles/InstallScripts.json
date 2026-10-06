@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Documents/Projects/GPU/Coursera/CUDA Advanced Libraries/ParticleBunny/build/_deps/glfw-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
