@@ -1,6 +1,6 @@
-# Dandelion Bunny
+# Particle Bunny
 
-Dandelion Bunny is a GPU-based 3D visualization project developed for the
+Particle Bunny is a GPU-based 3D visualization project developed for the
 Johns Hopkins University GPU Programming Specialization Capstone Project.
 
 The application renders the Stanford Bunny using OpenGL and uses CUDA to
@@ -8,7 +8,7 @@ simulate fur strands on the GPU. Fur roots are generated across the Bunny's
 surface, and CUDA updates the fur strand positions for real-time visualization.
 
 <p align="center">
-  <img src="media/ParticleBunnyVideo_01.gif" alt="Dandelion Bunny">
+  <img src="media/ParticleBunnyVideo_01.gif" alt="Particle Bunny">
 </p>
 
 ## Requirements
@@ -100,7 +100,7 @@ controls.
 
 ## Camera Controls
 
-Camera controls are available while the Dandelion Bunny simulation window
+Camera controls are available while the Particledelion Bunny simulation window
 is open.
 
 ### Move the camera
